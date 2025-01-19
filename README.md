@@ -13,7 +13,7 @@
 
 💼 **Experiencia Profesional**
 - **Consultor Modern Workplace**
-  - Realización de análisis exhaustivos de la infraestructura tecnológica de los clientes para diseñar e implementar soluciones avanzadas como Intune y Defender for Endpoint.
+  - Realización de análisis exhaustivos de la infraestructura tecnológica de los clientes para diseñar e implementar soluciones avanzadas como Microsoft Endpoint Management y Microsoft 365 Defender.
 
 🌱 **Formación Continua**
 - Me mantengo en constante aprendizaje, con un enfoque particular en la administración y seguridad de dispositivos.
