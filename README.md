@@ -1,26 +1,28 @@
- 👋 Hola, soy **Ismael**, un entusiasta del Workplace y un experto en el desarrollo de scripts para automatizar tareas rutinarias. Me apasiona compartir mis soluciones para que otros puedan beneficiarse de ellas.
+ 👋 Hi, I'm **Ismael**, a Workplace enthusiast and an expert in developing scripts to automate routine tasks. I'm passionate about sharing my solutions so that others can benefit from them.
 
-🚀 **Habilidades**
-- **Lenguajes de Programación:** Powershell, Bash, cmd
-- **Herramientas y Tecnologías:** Intune, Defender for Endpoint, Azure, Docker, Kubernetes
+🚀 **Skills**  
+- **Programming Languages:** PowerShell, Bash, CMD  
+- **Tools and Technologies:** Intune, Defender for Endpoint, Azure, Docker, Kubernetes
 
-📚 **Formación Académica**
-- **Administrador de Sistemas Informáticos**
-- **Certificaciones:**
-  - Microsoft 365 Certified: Enterprise Administrator Expert
-  - Microsoft 365 Certified: Endpoint Administrator Associate
+📚 **Education**  
+- **Degree:** IT Systems Administrator  
+- **Certifications:**  
+  - Microsoft 365 Certified: Enterprise Administrator Expert  
+  - Microsoft 365 Certified: Endpoint Administrator Associate  
   - Microsoft Certified: Azure Administrator Associate
 
-💼 **Experiencia Profesional**
-- **Consultor Modern Workplace**
-  - Realización de análisis exhaustivos de la infraestructura tecnológica de los clientes para diseñar e implementar soluciones avanzadas como Microsoft Endpoint Management y Microsoft 365 Defender.
+💼 **Professional Experience**  
+- **Modern Workplace Consultant**  
+  - Conducted in-depth analyses of clients’ technological infrastructure to design and implement advanced solutions such as Microsoft Endpoint Management and Microsoft 365 Defender.
 
-🌱 **Formación Continua**
-- Me mantengo en constante aprendizaje, con un enfoque particular en la administración y seguridad de dispositivos.
+🌱 **Ongoing Learning**  
+- I’m continuously learning, with a particular focus on device management and security.
 
- 📫 **Contacto**
-- **Correo Electrónico:** ismael.moore@outlook.es
+📫 **Contact**  
+- **Email:** ismael.moore@outlook.es  
 - **LinkedIn:** Ismael Morilla Orellana
+
 ---
 
-¡Gracias por visitar mi perfil! No dudes en contactarme si tienes alguna pregunta o simplemente deseas conectar.
+Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to connect.
+
