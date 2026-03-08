@@ -6,10 +6,10 @@
 
 📚 **Education**  
 - **Degree:** IT Systems Administrator  
-- **Certifications:**  
-  - Microsoft 365 Certified: Enterprise Administrator Expert  
-  - Microsoft 365 Certified: Endpoint Administrator Associate  
-  - Microsoft Certified: Azure Administrator Associate
+
+📜 **Featured Certifications**
+* **Expert:** M365 Enterprise Administrator Expert
+* **Associate:** Endpoint Administrator | Azure Administrator
 
 💼 **Professional Experience**  
 - **Modern Workplace Consultant**  
@@ -18,9 +18,9 @@
 🌱 **Ongoing Learning**  
 - I’m continuously learning, with a particular focus on device management and security.
 
-📫 **Contact**  
-- **Email:** ismael.moore@outlook.es  
-- **LinkedIn:** Ismael Morilla Orellana
+📫 **Let's Connect!**
+* **LinkedIn:** [Ismael Morilla Orellana](www.linkedin.com/in/ismael-morilla-orellana)
+* **Email:** ismael.moore@outlook.es
 
 ---
 
