@@ -17,6 +17,7 @@
 
 🌱 **Ongoing Learning**  
 - I’m continuously learning, with a particular focus on device management and security.
+- Building on my existing Linux expertise, I am currently scaling my skills in centralized deployment and configuration management through Ansible. My focus is on leveraging automation to deliver advanced, scalable, and cross-platform infrastructure solutions.
 
 📫 **Let's Connect!**
 * **LinkedIn:** [Ismael Morilla Orellana](www.linkedin.com/in/ismael-morilla-orellana)
